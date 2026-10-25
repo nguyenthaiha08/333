@@ -1,0 +1,6 @@
+{
+  "name": "Quan trọng",
+  "description": "A professional Text-to-Speech studio using Gemini 2.5 Flash. features text splitting, batch generation, and audio merging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
